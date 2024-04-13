@@ -137,6 +137,7 @@ export const allowLists = new Map<string, Array<string>> ([
       "5pntj1um5wsf4EvKf5fVN4BxVhNnx1sHLi8VGUvLLVNg",
       "6YT87vETBzCF8jBdPSVs3kPCrKbtERufLsCu1r9KnRaU",
       "5EravtRmM2ErtJ6JAKRGxqPEy9C7QnUS6pmntszVVwmS",
+        "53gQPhGQNWYd5V4f39DpG6CEJwqCXzoRAbMJar3ddBp9",
       
     ]],
     ["WL11",
@@ -147,7 +148,8 @@ export const allowLists = new Map<string, Array<string>> ([
     ["WL15",
     [
       "Di4PXNtmW2FSx8saAgFbqWPvUDbnLe1GPB87sEUeXPZJ",
-      "Di4PXNtmW2FSx8saAgFbqWPvUDbnLe1GPB87sEUeXPZJ",
+      "3CjRLR85AxwLTcxWsfEBLUvE8VVgrzzr8x6KNtLML4Bd",
+        "53gQPhGQNWYd5V4f39DpG6CEJwqCXzoRAbMJar3ddBp9",
       
     ]],
     
